@@ -1,0 +1,10 @@
+# NAME: 需要翻墙
+payload:
+#代理emby
+  - DOMAIN-KEYWORD,themoviedb
+  - DOMAIN-KEYWORD,tmdb
+#代理cms
+  - DOMAIN-KEYWORD,haiwaikan
+  - DOMAIN-KEYWORD,olelive
+  - DOMAIN-KEYWORD,olevod
+  - DOMAIN-KEYWORD,olemovienews
