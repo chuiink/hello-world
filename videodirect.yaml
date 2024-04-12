@@ -2,6 +2,7 @@
 payload:
 #直连emby
   - DOMAIN-SUFFIX,embyvip.misakaf.org
+  - DOMAIN-SUFFIX,emby2.misakaf.org
 #直连cms
   - DOMAIN-KEYWORD,lzapi
   - DOMAIN-KEYWORD,lzcdn
