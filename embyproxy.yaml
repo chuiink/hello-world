@@ -1,0 +1,4 @@
+# NAME: 需要翻墙
+payload:
+#代理emby
+  - DOMAIN-SUFFIX,emby.wtf
