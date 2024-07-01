@@ -16,4 +16,4 @@ payload:
 #  - DOMAIN-KEYWORD,hitv
 #  - DOMAIN-KEYWORD,huya
 #  - DOMAIN-KEYWORD,feisu
-#  - DOMAIN-KEYWORD,heimuer
+  - DOMAIN-KEYWORD,heimuer
