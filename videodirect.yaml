@@ -8,12 +8,12 @@ payload:
   - DOMAIN-SUFFIX,stream2.misakaf.org
   - DOMAIN-SUFFIX,stream3.misakaf.org
 #直连cms
-#  - DOMAIN-KEYWORD,lzapi
-#  - DOMAIN-KEYWORD,lzcdn
-#  - DOMAIN-KEYWORD,lz-cdn
-#  - DOMAIN-KEYWORD,cdnlz
-#  - DOMAIN-KEYWORD,lzzyimg
-#  - DOMAIN-KEYWORD,hitv
-#  - DOMAIN-KEYWORD,huya
-#  - DOMAIN-KEYWORD,feisu
+  - DOMAIN-KEYWORD,lzapi
+  - DOMAIN-KEYWORD,lzcdn
+  - DOMAIN-KEYWORD,lz-cdn
+  - DOMAIN-KEYWORD,cdnlz
+  - DOMAIN-KEYWORD,lzzyimg
+  - DOMAIN-KEYWORD,hitv
+  - DOMAIN-KEYWORD,huya
+  - DOMAIN-KEYWORD,feisu
   - DOMAIN-KEYWORD,heimuer
