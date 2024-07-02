@@ -1,12 +1,5 @@
 # NAME: 国内播放-无需翻墙
 payload:
-#直连emby
-  - DOMAIN-SUFFIX,embyvip.misakaf.org
-  - DOMAIN-SUFFIX,emby2.misakaf.org
-  - DOMAIN-SUFFIX,emby.misakaf.org
-  - DOMAIN-SUFFIX,stream1.misakaf.org
-  - DOMAIN-SUFFIX,stream2.misakaf.org
-  - DOMAIN-SUFFIX,stream3.misakaf.org
 #直连cms
   - DOMAIN-KEYWORD,lzapi
   - DOMAIN-KEYWORD,lzcdn
