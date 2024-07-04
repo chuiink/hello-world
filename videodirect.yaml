@@ -6,7 +6,7 @@ payload:
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,cdnlz
   - DOMAIN-KEYWORD,lzzyimg
-  - DOMAIN-KEYWORD,hitv
-  - DOMAIN-KEYWORD,huya
-  - DOMAIN-KEYWORD,feisu
-  - DOMAIN-KEYWORD,heimuer
+  # - DOMAIN-KEYWORD,hitv
+  # - DOMAIN-KEYWORD,huya
+  # - DOMAIN-KEYWORD,feisu
+  # - DOMAIN-KEYWORD,heimuer
