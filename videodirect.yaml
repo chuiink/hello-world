@@ -6,6 +6,12 @@ payload:
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,cdnlz
   - DOMAIN-KEYWORD,lzzyimg
+  - DOMAIN-SUFFIX,embyvip.misakaf.org
+  - DOMAIN-SUFFIX,emby2.misakaf.org
+  - DOMAIN-SUFFIX,emby.misakaf.org
+  - DOMAIN-SUFFIX,stream1.misakaf.org
+  - DOMAIN-SUFFIX,stream2.misakaf.org
+  - DOMAIN-SUFFIX,stream3.misakaf.org
   # - DOMAIN-KEYWORD,hitv
   # - DOMAIN-KEYWORD,huya
   # - DOMAIN-KEYWORD,feisu

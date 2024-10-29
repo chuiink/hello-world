@@ -3,9 +3,3 @@ payload:
 #代理emby
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.aca.best
-  - DOMAIN-SUFFIX,embyvip.misakaf.org
-  - DOMAIN-SUFFIX,emby2.misakaf.org
-  - DOMAIN-SUFFIX,emby.misakaf.org
-  - DOMAIN-SUFFIX,stream1.misakaf.org
-  - DOMAIN-SUFFIX,stream2.misakaf.org
-  - DOMAIN-SUFFIX,stream3.misakaf.org
