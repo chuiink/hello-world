@@ -3,6 +3,8 @@ payload:
 #代理emby
   - DOMAIN-KEYWORD,themoviedb
   - DOMAIN-KEYWORD,tmdb
+  - DOMAIN-SUFFIX,charontv.com
+  - DOMAIN-SUFFIX,emby.aca.best
 #代理cms
   - DOMAIN-KEYWORD,haiwaikan
   - DOMAIN-KEYWORD,olelive
