@@ -4,9 +4,8 @@ payload:
   - DOMAIN-KEYWORD,themoviedb
   - DOMAIN-KEYWORD,tmdb
   - DOMAIN-SUFFIX,charontv.com
-  - DOMAIN-SUFFIX,emby.aca.best
+  - DOMAIN-SUFFIX,313445.xyz
 #代理cms
-  - DOMAIN-KEYWORD,haiwaikan
   - DOMAIN-KEYWORD,olelive
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,olemovienews

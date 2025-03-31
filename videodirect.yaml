@@ -1,5 +1,9 @@
 # NAME: 国内播放-无需翻墙
 payload:
+#直连emby
+  - DOMAIN-SUFFIX,makima.online
+  - DOMAIN-SUFFIX,alphatvapp.top
+  # - DOMAIN-SUFFIX,niceduck.lol,好鸭机场服 #机场服
 #直连cms
   - DOMAIN-KEYWORD,lzapi
   - DOMAIN-KEYWORD,lzcdn
