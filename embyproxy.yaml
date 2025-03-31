@@ -2,5 +2,5 @@
 payload:
 #代理emby
   - DOMAIN-SUFFIX,charontv.com
+  - DOMAIN-SUFFIX,313445.xyz
   # - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,emby.aca.best
