@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,makima.online
   - DOMAIN-SUFFIX,alphatvapp.top
   - DOMAIN-SUFFIX,as174.de
+  - DOMAIN-SUFFIX,micu.hk
   # - DOMAIN-SUFFIX,niceduck.lol,好鸭机场服 #机场服
 #直连cms
   - DOMAIN-KEYWORD,lzapi
